@@ -1,16 +1,13 @@
-### Hi there 👋
+<pre align="center"><div id="user-content-toc"><ul><summary><h1 style="display: inline-block;">Sambit Panda</h1><br/><a href="https://sampan.me/">Home Page</a> &#x30FB; <a href="https://www.linkedin.com/in/sampan501/">LinkedIn</a> &#x30FB; <a href="https://scholar.google.com/citations?user=-V3CmPoAAAAJ&hl=en">Google Scholar</a></summary></ul></div></pre>
 
-<!--
-**sampan501/sampan501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile 👋!
 
-Here are some ideas to get you started:
+I'm a Ph.D. candidate at [Johns Hopkins](https://www.bme.jhu.edu/) in the [NeuroData](https://neurodata.io/) lab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on developing novel approaches to analyze data and use them to answer interesting biomedical problems. This involves leveraging machine learning approaches to enable powerful approaches in hypothesis testing, causal inference, etc. Most of these approaches are in open-source packages, including:
+
+- [hyppo](https://github.com/neurodata/hyppo): The Python package to use for multivariate hypothesis testing.
+- [scikit-tree](https://github.com/neurodata/scikit-tree): Scikit-learn compatible decision trees beyond those offered in scikit-learn.
+- [scipy.stats.multiscale_graphcorr](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.multiscale_graphcorr.html): Multiscale Graph Correlation (MGC) is a powerful, universally consistent independence test that performs well on high-dimensional and non-Euclidean data.
+
+You can find links to my code these packages and more pinned below &#x2935;
