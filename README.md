@@ -10,4 +10,4 @@ I work on developing novel approaches to analyze data and use them to answer int
 - [scikit-tree](https://github.com/neurodata/scikit-tree): Scikit-learn compatible decision trees beyond those offered in scikit-learn.
 - [scipy.stats.multiscale_graphcorr](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.multiscale_graphcorr.html): Multiscale Graph Correlation (MGC) is a powerful, universally consistent independence test that performs well on high-dimensional and non-Euclidean data.
 
-You can find links to my code these packages and more pinned below &#x2935;
+You can find links to my code in these packages and more pinned below &#x2935;
