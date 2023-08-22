@@ -4,7 +4,7 @@ Welcome to my profile 👋!
 
 I'm a Ph.D. candidate at [Johns Hopkins](https://www.bme.jhu.edu/) in the [NeuroData](https://neurodata.io/) lab.
 
-I work on developing novel approaches to analyze data and use them to answer interesting biomedical problems. This involves leveraging machine learning approaches to enable powerful approaches in hypothesis testing, causal inference, etc. Most of these approaches are in open-source packages, including:
+I work on developing novel approaches to analyze data and use them to answer interesting biomedical problems. This involves leveraging machine learning algorithms to enable powerful approaches in hypothesis testing, causal inference, etc. Most of these approaches are in open-source packages, including:
 
 - [hyppo](https://github.com/neurodata/hyppo): The Python package to use for multivariate hypothesis testing.
 - [scikit-tree](https://github.com/neurodata/scikit-tree): Scikit-learn compatible decision trees beyond those offered in scikit-learn.
