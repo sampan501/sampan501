@@ -1,4 +1,4 @@
-<pre align="center"><div id="user-content-toc"><ul><summary><h1 style="display: inline-block;">Sambit Panda</h1><br/><a href="https://sampan.me/">Homepage</a> &#x30FB; <a href="https://www.linkedin.com/in/sampan501/">LinkedIn</a> &#x30FB; <a href="https://scholar.google.com/citations?user=-V3CmPoAAAAJ&hl=en">Google Scholar</a></summary></ul></div></pre>
+<pre align="center"><div id="user-content-toc"><ul><summary><h1 style="display: inline-block;">Sambit Panda</h1><br/><a href="https://sampan.me/">Homepage</a> &#x30FB; <a href="https://scholar.google.com/citations?user=-V3CmPoAAAAJ&hl=en">Google Scholar</a> &#x30FB; <a href="https://www.linkedin.com/in/sampan501/">LinkedIn</a></summary></ul></div></pre>
 
 Welcome to my profile 👋!
 
