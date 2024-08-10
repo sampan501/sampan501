@@ -7,7 +7,7 @@ I'm a Ph.D. candidate at [Johns Hopkins](https://www.bme.jhu.edu/) in the [Neuro
 I work on developing novel approaches to analyze data and use them to answer interesting biomedical problems. This involves leveraging machine learning algorithms to enable powerful approaches in hypothesis testing, causal inference, etc. Most of these approaches are in open-source packages, including:
 
 - [hyppo](https://github.com/neurodata/hyppo): The Python package to use for multivariate hypothesis testing.
-- [scikit-tree](https://github.com/neurodata/scikit-tree): Scikit-learn compatible decision trees beyond those offered in scikit-learn.
+- [treeple](https://github.com/neurodata/treeple): Scikit-learn compatible decision trees beyond those offered in scikit-learn.
 - [scipy.stats.multiscale_graphcorr](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.multiscale_graphcorr.html): Multiscale Graph Correlation (MGC) is a powerful, universally consistent independence test that performs well on high-dimensional and non-Euclidean data.
 
 You can find links to my code in these packages and more pinned below &#x2935;
