@@ -2,6 +2,6 @@
 
 I'm a cofounder at [Selja Health](https://seljahealth.com/), where we're building a clinical decision support tool for trauma transfers. The company spun out of my work at the [MATRIX AI Consortium](https://ai.utsa.edu/), where I'm still a research scientist. Before that I did my PhD at [Johns Hopkins](https://www.bme.jhu.edu/) in the [NeuroData](https://neurodata.io/) lab, working on hypothesis testing for high-dimensional data.
 
-The pinned repos below (`hyppo`, `treeple`, and a contribution to `SciPy`) are from that PhD work. They're stable but no longer in active development.
+The pinned repos below (hyppo, treeple, and my contribution of MGC in SciPy) are from that PhD work. They're stable and maintained, but not adding features.
 
-*Current work lives at [sampan.me](https://sampan.me/).*
+*Everything current work is at [sampan.me](https://sampan.me/).*
